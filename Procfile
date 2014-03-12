@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n gg
+web: bin/hubot -a flowdock -n gg
