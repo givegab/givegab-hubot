@@ -1,1 +1,1 @@
-["redis-brain.coffee", "shipit.coffee", "pivotal.coffee", "github-activity.coffee", "github-pulls.coffee", "wikipedia.coffee", "keep-alive.coffee"]
+["redis-brain.coffee", "shipit.coffee", "pivotal.coffee", "github-activity.coffee", "github-pulls.coffee", "wikipedia.coffee", "keep-alive.coffee", "bang-bang.coffee", "corgime.coffee", "heroku-status.coffee", "karma.coffee", "kittens.coffee"]
